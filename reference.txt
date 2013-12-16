@@ -1,0 +1,5 @@
+LC-KSVD: http://www.umiacs.umd.edu/~zhuolin/projectlcksvd.html
+
+DK-SVD: http://www.public.asu.edu/~qzhang53/research.html
+
+BGSC-ICS: http://www.cise.ufl.edu/~ychi/
